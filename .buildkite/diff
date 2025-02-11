@@ -14,4 +14,4 @@ else
 fi
 
 # Need output, even if empty
-echo "${diff:-}"
+echo "$diff"
